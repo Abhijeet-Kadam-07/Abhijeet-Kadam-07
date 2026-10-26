@@ -8,7 +8,7 @@ I'm a Computer Engineering graduate passionate about building practical applicat
 - 🌱 **Currently learning:** Advanced Java, Spring Boot, SQL, Data Structures & Algorithms.
 - 👯 **Looking to collaborate on:** Java applications, web development, and data analytics projects.
 - 💬 **Ask me about:** Java, OOP, SQL, Python, Excel, and Power BI.
-- 📫 **Reach me at:** [Your Email Address](mailto:kadamabhijeet1013@gmail.com)
+- 📫 **Reach me at:** [kadamabhijeet1013@gmail.com](mailto:kadamabhijeet1013@gmail.com)
 - 💼 **Career goal:** To grow as a software developer and contribute to real-world projects.
 - ⚡ **Fun fact:** I believe every problem becomes easier when you break it into smaller problems.
 
